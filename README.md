@@ -8,21 +8,27 @@
 - [App Ideas Generator](https://github.com/harshhhdev/app-idea-generator)
 ## Sites
 
+### Beginner
+- [URI](https://www.urionlinejudge.com.br/judge/en/login)
+- [UVA](https://onlinejudge.org/)
+- [CodeForces](http://codeforces.com/)
+- [SPOJ](https://www.spoj.com/)
+
+### Intermediate
 - [CoderByte](https://www.coderbyte.com/)
 - [CodeWars](https://www.codewars.com/)
-- [CodeFights](https://codesignal.com/)
+- [CodeSignal](https://codesignal.com/)
+- [Exercism](https://exercism.io/)
+- [LettCode](https://leetcode.com/)
+
+### Advanced
 - [CodinGame](https://www.codingame.com/)
 - [TopCoder](https://www.topcoder.com/challenges/)
-- [LettCode](https://leetcode.com/)
 - [HackerRank](https://www.hackerrank.com/)
 - [CodeChef](https://www.codechef.com/)
 - [GeeksForGeeks](https://www.geeksforgeeks.org/)
-- [CodeForces](http://codeforces.com/)
-- [Exercism](https://exercism.io/)
-- [SPOJ](https://www.spoj.com/)
 - [Project Euler](https://projecteuler.net/)
-- [URI](https://www.urionlinejudge.com.br/judge/en/login)
-- [UVA](https://onlinejudge.org/)
+
 ## Others
 
 ## How to contribute
