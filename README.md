@@ -11,7 +11,7 @@
 - [Community Project Ideas](https://github.com/fnplus/community-project-ideas)
 - [Javascript Projects](https://github.com/OpenSouce-LNMIIT/JavaScriptProjects)
 - [1000 Project Ideas](https://github.com/Akshat4112/1000_Project_Ideas)
-- []()
+
 
 ## Sites
 
