@@ -6,6 +6,13 @@
 - [App Ideas Collection](https://github.com/florinpop17/app-ideas)
 - [Awesome App Ideas](https://github.com/tastejs/awesome-app-ideas)
 - [App Ideas Generator](https://github.com/harshhhdev/app-idea-generator)
+- [Project](https://github.com/karan/Projects)
+- [Ideas](https://github.com/samsquire/ideas)
+- [Community Project Ideas](https://github.com/fnplus/community-project-ideas)
+- [Javascript Projects](https://github.com/OpenSouce-LNMIIT/JavaScriptProjects)
+- [1000 Project Ideas](https://github.com/Akshat4112/1000_Project_Ideas)
+- []()
+
 ## Sites
 
 ### Beginner
