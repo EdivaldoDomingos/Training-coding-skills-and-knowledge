@@ -26,7 +26,7 @@
 - [CodeWars](https://www.codewars.com/)
 - [CodeSignal](https://codesignal.com/)
 - [Exercism](https://exercism.io/)
-- [LettCode](https://leetcode.com/)
+- [LeetCode](https://leetcode.com/)
 
 ### Advanced
 - [CodinGame](https://www.codingame.com/)
